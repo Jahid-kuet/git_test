@@ -1,2 +1,1 @@
-"this is file.txt(initial)" 
-"added new content in feature-update branch"
+"this is file.txt(initial)"
