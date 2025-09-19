@@ -1,2 +1,8 @@
+<<<<<<< HEAD
 "this is file.txt(initial)"
-"main branch:line A(different)"
+"main branch:line A(changes)"
+=======
+"this is file.txt(initial)" 
+"added new content in feature-update branch"
+"feature branch:line A(changes)"
+>>>>>>> feature-update
