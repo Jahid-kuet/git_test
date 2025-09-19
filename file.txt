@@ -1,1 +1,2 @@
 "this is file.txt(initial)"
+"main branch:line A(different)"
