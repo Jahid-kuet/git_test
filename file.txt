@@ -6,3 +6,4 @@
 "added new content in feature-update branch"
 "feature branch:line A(changes)"
 >>>>>>> feature-update
+"feature branch test line"
